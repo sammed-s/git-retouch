@@ -1,1 +1,1 @@
-console.log("code in main branch commit #1");
+console.log("code in the main branch commit #1");
