@@ -1,2 +1,2 @@
 log("Testing pull request")
-log("code in main branch)
+log("New lines in sammed branch)
