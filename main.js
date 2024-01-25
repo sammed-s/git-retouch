@@ -1,4 +1,4 @@
 
-console.log("code in the sammed branch updated");
+console.log("code in the main branch edited");
 console.log("No clarity")
 
